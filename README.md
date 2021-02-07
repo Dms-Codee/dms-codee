@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Developer inclinado al maquetado web Front-end (UI, Ux, visualización de datos), pero con conocimientos en tecnologías Back-End (Bases de datos). Autodidacta en constante actualización y aprendizaje
+
+
 <!--
 **Dms-Codee/dms-codee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
