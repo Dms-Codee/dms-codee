@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hola 👋
 
-Developer inclinado al maquetado web Front-end (UI, Ux, visualización de datos), pero con conocimientos en tecnologías Back-End (Bases de datos). Autodidacta en constante actualización y aprendizaje
-
+Dms-Code es un developer💻 con gusto por el maquetado Front-end Vanilla 🍦 (html-css-js), fanatico por el entendimiento en Ux-Ui📚 y la visualización de datos 📊, y apasionado en la aplicación de algoritmos dentro del mismo codigo ⚙️
 
 <!--
 **Dms-Codee/dms-codee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
