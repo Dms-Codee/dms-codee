@@ -1,8 +1,8 @@
 # Hola 👋
 
-## Dms-Code developer💻 con gusto por el maquetado Front-end Vanilla(html-css-js) 🍦 
-### Fanatico por el entendimiento en Ux-Ui📚 y la visualización de datos 📊
-### Apasionado en la aplicación de algoritmos dentro delcodigo ⚙️
+## Dms-Code 💻 con gusto por el Front-end Vanilla(HTML-CSS-JS) 🍦 
+### Fanatico por el entendimiento Ux-Ui📚 y
+### Apasionado en el entendimiento de datos 📊 ⚙️
 
 <!--
 **Dms-Codee/dms-codee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
