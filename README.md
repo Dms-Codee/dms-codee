@@ -1,7 +1,7 @@
 # Hola 👋
 
-## Dms-Code 💻 con gusto por el Front-end Vanilla(HTML-CSS-JS) 🍦 
-### Fanatico en mejorar y comprender las tendencias Ux-Ui📚 
+## Dms-Code 💻 con gusto por el desarollo Front-end Vanilla 🍦 
+### Fanatico en mejorar y comprender las tendencias tecnologicas
 ### Apasionado en el entendimiento de datos 📊 ⚙️
 
 <!--
