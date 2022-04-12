@@ -1,6 +1,6 @@
 # Hola 👋
 
-## Dms-Code 💻 con gusto por el desarollo Front-end Vanilla 🍦 
+## Dms-Code 💻 con gusto por el desarollo Front-end especialmente el Vanilla 🍦 
 ### Fanatico en mejorar y comprender las tendencias tecnologicas
 ### Apasionado en el entendimiento de datos 📊 ⚙️
 
