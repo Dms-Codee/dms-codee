@@ -1,8 +1,8 @@
 # Hola 👋
 
-## Dms-Code 💻 con gusto por el desarollo Front-end especialmente el Vanilla 🍦 
-### Fanatico en mejorar y comprender las tendencias tecnologicas
-### Apasionado en el entendimiento de datos 📊 ⚙️
+## Dms-Code 💻 enfocado al desarollo Front-end y Vanilla Js 💛🍦 
+### Fanatico en la tecnologia y herramientas de Google
+### Apasionado en el entendimiento de datos, herramientas Code y No Code 📊 ⚙️
 
 <!--
 **Dms-Codee/dms-codee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
