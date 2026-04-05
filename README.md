@@ -1,7 +1,7 @@
 # Hola 👋
 
-## Dms-Code 💻 enfocado al desarollo Front-end y Vanilla Js 💛🍦 
-### Fanatico en la tecnologia y herramientas de Google
+## Me gusta el desarrollo web y las soluciones con Javascript 💛🍦 
+### Fanatico en la tecnologia y herramientas de Google 
 ### Apasionado en el entendimiento de datos, herramientas Code y No Code 📊 ⚙️
 
 <!--
