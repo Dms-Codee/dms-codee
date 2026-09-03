@@ -1,8 +1,9 @@
 # Hola 👋
 
-## Me gusta el desarrollo web y las soluciones con Javascript 💛🍦 
+## Me gusta experimentar con el desarrollo web y las soluciones con Javascript 💛🍦 
 ### Fanatico en la tecnologia y herramientas de Google 
-### Apasionado en el entendimiento de datos, herramientas Code y No Code 📊 ⚙️
+### Aprendiz actual en programacion agentica y sacarle provecho al vibecoding
+
 
 <!--
 **Dms-Codee/dms-codee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
